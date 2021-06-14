@@ -1,6 +1,6 @@
-package utn.dlc.tp.DAO;
+package ar.edu.utn.frc.dlc.tp.DAO;
 
-import utn.dlc.tp.modelos.Documento;
+import ar.edu.utn.frc.dlc.tp.modelos.Documento;
 
 import java.sql.*;
 import java.util.ArrayList;

@@ -1,4 +1,4 @@
-package utn.dlc.tp.modelos;
+package ar.edu.utn.frc.dlc.tp.modelos;
 
 import java.util.*;
 

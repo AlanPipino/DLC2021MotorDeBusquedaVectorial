@@ -1,4 +1,4 @@
-package utn.dlc.tp.DAO;
+package ar.edu.utn.frc.dlc.tp.DAO;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

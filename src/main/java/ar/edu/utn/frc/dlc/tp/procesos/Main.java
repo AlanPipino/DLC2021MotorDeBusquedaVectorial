@@ -1,8 +1,8 @@
-package utn.dlc.tp.procesos;
+package ar.edu.utn.frc.dlc.tp.procesos;
 
-import utn.dlc.tp.DAO.DAOdocumentos;
-import utn.dlc.tp.modelos.Documento;
-import utn.dlc.tp.modelos.Termino;
+import ar.edu.utn.frc.dlc.tp.DAO.DAOdocumentos;
+import ar.edu.utn.frc.dlc.tp.modelos.Documento;
+import ar.edu.utn.frc.dlc.tp.modelos.Termino;
 
 import java.io.*;
 import java.sql.SQLException;

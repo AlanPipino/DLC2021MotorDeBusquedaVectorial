@@ -1,6 +1,6 @@
-package utn.dlc.tp.modelos;
+package ar.edu.utn.frc.dlc.tp.modelos;
 
-import utn.dlc.tp.DAO.DAOposteos;
+import ar.edu.utn.frc.dlc.tp.DAO.DAOposteos;
 
 import java.io.Serializable;
 import java.util.ArrayList;

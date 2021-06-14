@@ -1,10 +1,10 @@
-package utn.dlc.tp.procesos;
+package ar.edu.utn.frc.dlc.tp.procesos;
 
-import utn.dlc.tp.DAO.DAOvocabulario;
-import utn.dlc.tp.modelos.Documento;
-import utn.dlc.tp.modelos.Posteo;
-import utn.dlc.tp.modelos.Termino;
-import utn.dlc.tp.modelos.Vocabulario;
+import ar.edu.utn.frc.dlc.tp.DAO.DAOvocabulario;
+import ar.edu.utn.frc.dlc.tp.modelos.Documento;
+import ar.edu.utn.frc.dlc.tp.modelos.Posteo;
+import ar.edu.utn.frc.dlc.tp.modelos.Termino;
+import ar.edu.utn.frc.dlc.tp.modelos.Vocabulario;
 
 import java.io.*;
 import java.util.*;
